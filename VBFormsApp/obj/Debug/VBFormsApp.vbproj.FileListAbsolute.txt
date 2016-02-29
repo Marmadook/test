@@ -1,0 +1,11 @@
+c:\users\trish\documents\visual studio 2015\Projects\VBFormsApp\VBFormsApp\bin\Debug\VBFormsApp.exe.config
+c:\users\trish\documents\visual studio 2015\Projects\VBFormsApp\VBFormsApp\bin\Debug\VBFormsApp.exe
+c:\users\trish\documents\visual studio 2015\Projects\VBFormsApp\VBFormsApp\bin\Debug\VBFormsApp.pdb
+c:\users\trish\documents\visual studio 2015\Projects\VBFormsApp\VBFormsApp\bin\Debug\VBFormsApp.xml
+c:\users\trish\documents\visual studio 2015\Projects\VBFormsApp\VBFormsApp\obj\Debug\VBFormsApp.vbprojResolveAssemblyReference.cache
+c:\users\trish\documents\visual studio 2015\Projects\VBFormsApp\VBFormsApp\obj\Debug\VBFormsApp.Resources.resources
+c:\users\trish\documents\visual studio 2015\Projects\VBFormsApp\VBFormsApp\obj\Debug\VBFormsApp.vbproj.GenerateResource.Cache
+c:\users\trish\documents\visual studio 2015\Projects\VBFormsApp\VBFormsApp\obj\Debug\VBFormsApp.exe
+c:\users\trish\documents\visual studio 2015\Projects\VBFormsApp\VBFormsApp\obj\Debug\VBFormsApp.xml
+c:\users\trish\documents\visual studio 2015\Projects\VBFormsApp\VBFormsApp\obj\Debug\VBFormsApp.pdb
+c:\users\trish\documents\visual studio 2015\Projects\VBFormsApp\VBFormsApp\obj\Debug\VBFormsApp.Form1.resources
