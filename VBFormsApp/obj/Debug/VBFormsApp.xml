@@ -22,5 +22,20 @@ VBFormsApp
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
+<member name="P:VBFormsApp.My.Resources.Resources.Bliss">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VBFormsApp.My.Resources.Resources.image">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VBFormsApp.My.Resources.Resources.image1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 </members>
 </doc>
