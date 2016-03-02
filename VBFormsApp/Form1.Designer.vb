@@ -36,7 +36,7 @@ Partial Class Form1
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(93, 35)
         Me.Button1.TabIndex = 0
-        Me.Button1.Text = "Click Me!"
+        Me.Button1.Text = "Click Me Now!"
         Me.Button1.UseVisualStyleBackColor = True
         '
         'PictureBox1
